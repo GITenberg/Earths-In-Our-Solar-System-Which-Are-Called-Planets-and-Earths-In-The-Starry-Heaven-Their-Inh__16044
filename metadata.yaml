@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3899
     wikipedia: http://en.wikipedia.org/wiki/Emanuel_Swedenborg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16044#Earths-In-Our-Solar-System-Which-Are-Called-Planets-and-Earths-In-The-Starry-Heaven-Their-Inh_
 gutenberg_issued: '2005-06-12'
 gutenberg_type: Text
 identifiers:
