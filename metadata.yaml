@@ -1,0 +1,28 @@
+_repo: Earths-In-Our-Solar-System-Which-Are-Called-Planets-and-Earths-In-The-Starry-Heaven-Their-Inh__16044
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Swedenborg, Emanuel
+    birthdate: 1688
+    deathdate: 1772
+    gutenberg_agent_id: '3899'
+    url: http://www.gutenberg.org/2009/agents/3899
+    wikipedia: http://en.wikipedia.org/wiki/Emanuel_Swedenborg
+description: ''
+gutenberg_issued: '2005-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16044'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Cosmology -- Early works to 1800'
+title: Earths In Our Solar System Which Are Called Planets, and Earths In The Starry
+  Heaven Their Inhabitants, And The Spirits And Angels There
+url: http://www.gutenberg.org/ebooks/16044
